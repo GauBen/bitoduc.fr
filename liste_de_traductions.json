@@ -238,7 +238,7 @@
     {"anglais": "Watchdog", "français": "Chien de garde", "genre": "m", "classe": "groupe nominal"},
     {"anglais": "Web", "français": "Toile", "genre": "f", "classe": "groupe nominal"},
     {"anglais": "Web cache", "français": "Cache-toile", "genre": "m", "classe": "groupe nominal"},
-    {"anglais": "Web scaping", "français": "Moissonage de données", "genre": "m", "classe": "groupe nominal"},
+    {"anglais": "Web scraping", "français": "Moissonage de données", "genre": "m", "classe": "groupe nominal"},
     {"anglais": "Webcam", "français": "Cybercaméra", "genre": "f", "classe": "groupe nominal"},
     {"anglais": "Webmail", "français": "Portail de messagerie", "genre": "m", "classe": "groupe nominal"},
     {"anglais": "Webmaster", "français": "Webmestre", "genre": "m", "classe": "groupe nominal"},
